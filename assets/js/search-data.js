@@ -412,18 +412,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-special-issue-in-heredity-on-the-functional-and-adaptive-effects-of-genomic-structural-variation",
+            },},{id: "news-special-issue-in-heredity-on-the-functional-and-adaptive-effects-of-genomic-structural-variation",
           title: 'Special issue in Heredity on the functional and adaptive effects of genomic structural...',
           description: "",
           section: "News",handler: () => {
