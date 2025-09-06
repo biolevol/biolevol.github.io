@@ -1,13 +1,14 @@
 ---
 layout: page
-title: projects
+title: research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: My research centers on understanding the mechanistic basis of structural variation (SV) and its role in evolutionary processes. I am particularly interested in how SVs arise within genomes, how they are maintained or eliminated within populations, and the consequences they have for adaptation and genetic diversity. By combining population genetics approaches with high-resolution genomic data, we can now quantify the extent and complexity of SVs within individuals and across species. My work investigates the evolutionary forces that shape these dynamic genomic regions shaped by the forces of recombination, mutation, selection, and drift, and how these processes contribute to long-term evolutionary trajectories. 
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: 
 horizontal: false
 ---
+
 
 <!-- pages/projects.md -->
 <div class="projects">
