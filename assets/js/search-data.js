@@ -497,6 +497,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/ESEB_talk/";
+            },},{id: "news-seminar-series-schedule",
+          title: 'Seminar Series Schedule',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/seminars_2025_fall/";
             },},{id: "projects-human-amylase-diversity",
           title: 'Human Amylase Diversity',
           description: "Reconstruction of the human amylase locus reveals ancient duplications seeding modern-day variation",
