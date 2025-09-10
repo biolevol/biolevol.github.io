@@ -18,16 +18,17 @@ Amylase, the enzyme responsible for starch digestion, has a remarkable evolution
 </div>    
 
 Activity Stations Included:
-🍞 Taste & Guess:
+
+Taste & Guess:
 Children and adults chewed pieces of bread and tried to “taste” their salivary amylase activity, learning how this enzyme breaks down starch into sugar. They then compared their guesses to real-world data on AMY1 copy number variation across global populations.
 
-🧱 Lego Copy-Number Builder:
+Lego Copy-Number Builder:
 Using color-coded Lego bricks, participants constructed amylase gene haplotypes. This helped illustrate how recombination and structural changes can result in the remarkable diversity of amylase loci observed in modern humans.
 
-🎲 Snakes and Ladders of Amylase Evolution (HaploLadders):
+Snakes and Ladders of Amylase Evolution (HaploLadders):
 Participants played a custom version of Snakes and Ladders where landing on a ladder represented a gene duplication (gain of AMY1 copies), while being eaten by a snake led to a deletion (loss of copies). Importantly, reaching the end of the board didn’t necessarily mean a high copy number, some players finished the game with only a few amylase copies. This illustrated a key evolutionary insight: more is not always better. Copy number variation of the amylase gene is shaped by adaptation to local diets, not by a universal selective pressure for high copy numbers. Through play, participants explored how mutation and recombination introduce variation, and how selection and drift shape the diversity seen in human populations today.
 
-📱 ShinyApp Simulation – Mini Haplotype Evolution:
+ShinyApp Simulation – Mini Haplotype Evolution:
 On their phones families ran simulations to see how copy number variation evolves under different conditions, eg. mutation, selection, drift, or bottlenecks, visualized as evolving haplotype graphs over generations.
 <div class="row justify-content-center">
     <div class="col-sm-8 mt-3 mt-md-0">
