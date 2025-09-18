@@ -25,4 +25,4 @@ At the University at Buffalo, I initiated the *Postdoctoral Meet-ups* in 2024, e
 
 Peer-review and editorship:
 
-In 2025, I joined *Heredity* as Guest Editor for a special issue on structural variation, co-editing with Omer Gokcumen, Megan Dennis, and Ellen Leffler. I complement this editorial role with formal training through the *GSA Journals Peer Review Training Program* and the *eLife Early-Career Reviewers Pool*.
+In 2024, I joined *Heredity* as Guest Editor for a special issue on structural variation, co-editing with Omer Gokcumen, Megan Dennis, and Ellen Leffler. Since September 1st, 2025, I have joined *Heredity* as an Associate Editor. I complement this editorial role with formal training through the *GSA Journals Peer Review Training Program* and the *eLife Early-Career Reviewers Pool*.
