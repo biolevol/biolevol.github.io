@@ -36,7 +36,7 @@ latest_posts: false
 </div>
 
 <div style="width: 34%; float: right;">
-    <img src="../assets/img/profile.jpg" width="360" style="display: block; margin: auto; margin-bottom: 20px;">
+    <img src="../assets/img/clio_japan_2025.jpg" width="360" style="display: block; margin: auto; margin-bottom: 20px;">
 </div>
 
 <div style="clear: both;"></div>
