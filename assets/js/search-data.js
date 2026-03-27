@@ -512,8 +512,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/seminars_2026_spring/";
-            },},{id: "news-special-issue-publication",
-          title: 'Special issue publication',
+            },},{id: "news-special-issue-in-heredity",
+          title: 'Special Issue in Heredity',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/special_issue_out/";
