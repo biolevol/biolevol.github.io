@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Special issue publication
+title: Special Issue in Heredity
 date: 2026-03-27
 inline: false
 related_posts: false
