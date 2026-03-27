@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-I’m excited to announce the Fall 2025 lineup for our Genome Structure Evolution Seminar Series at the University at Buffalo!
+I’m excited to announce the Fall 2025 lineup for our Genome Structure, Evolution Seminar Series at the University at Buffalo!
 
 This interdisciplinary series features invited speakers whose work spans evolutionary genomics, structural variation, and/or anthropology. Talks are designed to be interactive, discussion-driven, and accessible to a broad academic audience, including students and researchers from diverse backgrounds.
 
