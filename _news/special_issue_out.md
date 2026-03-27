@@ -11,12 +11,15 @@ The special issue Functional and Adaptive Effects of Genomic Structural Variatio
 The full collection is available [here](https://www.nature.com/collections/deejeiccee)
 
 **Editorial**
+
 Karageorgiou, C., Leffler, E.M., Dennis, M.Y. et al. Structural variation in context: mechanisms, functions and selection regimes across the tree of life. Heredity 135, 121–125 (2026). [https://doi.org/10.1038/s41437-026-00832-x](https://doi.org/10.1038/s41437-026-00832-x)
 
 **Review**
+
 Diblasi, C., Saitou, M. Beyond inversions and deletions: the evolutionary and functional insights from translocations, fissions, and fusions in animal genomes. Heredity 135, 126–137 (2026). [https://doi.org/10.1038/s41437-025-00785-7](https://doi.org/10.1038/s41437-025-00785-7)
 
 **Research articles**
+
 Paris, M., Durmaz Mitchell, E., Kerdaffrec, E. et al. Multiple forms of balancing selection maintain inversion polymorphism. Heredity 135, 138–151 (2026). [https://doi.org/10.1038/s41437-025-00780-y](https://doi.org/10.1038/s41437-025-00780-y)
 
 Rodríguez-Fuentes, J., Nesvadba, N., Saladin, V. et al. Experimental test of the fitness effects of divergent marine–freshwater chromosomal inversions in stickleback under different salinity conditions. Heredity 135, 152–161 (2026). [https://doi.org/10.1038/s41437-025-00784-8](https://doi.org/10.1038/s41437-025-00784-8)
