@@ -109,7 +109,7 @@
       "awarder": "Universitat Autònoma de Barcelona"
     },
     {
-      "title": "Summa Cum Laude",
+      "title": "Cum Laude",
       "date": "2022-09",
       "awarder": "Universitat Autònoma de Barcelona"
     },
@@ -124,6 +124,7 @@
       "keywords": [
         "Population Genetics",
         "Evolutionary Genetics",
+        "Genome Evolution",
         "Structural Variation",
         "Human Genetics",
         "Bioinformatics"
