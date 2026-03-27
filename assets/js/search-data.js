@@ -502,6 +502,21 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/seminars_2025_fall/";
+            },},{id: "news-research-visit-to-leo-speidel-s-lab-at-riken",
+          title: 'Research Visit to Leo Speidel’s Lab at RIKEN',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/japan/";
+            },},{id: "news-seminar-series-spring-2026-schedule",
+          title: 'Seminar Series Spring 2026 Schedule',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/seminars_2026_spring/";
+            },},{id: "news-special-issue-publication",
+          title: 'Special issue publication',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/special_issue_out/";
             },},{id: "projects-human-amylase-diversity",
           title: 'Human Amylase Diversity',
           description: "Reconstruction of the human amylase locus reveals ancient duplications seeding modern-day variation",
