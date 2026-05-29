@@ -447,11 +447,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/paving/";
-            },},{id: "news-primate-amylase-paper-published-in-cell-reports",
-          title: 'Primate amylase paper published in Cell Reports',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/Cell_Reports/";
             },},{id: "news-two-talks-at-virtual-evolution-2025",
           title: 'Two talks at Virtual Evolution 2025',
           description: "",
@@ -527,6 +522,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/special_issue_out/";
+            },},{id: "news-primate-amylase-paper-published-in-cell-reports",
+          title: 'Primate amylase paper published in Cell Reports',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/Cell_Reports/";
             },},{id: "projects-human-amylase-diversity",
           title: 'Human Amylase Diversity',
           description: "Reconstruction of the human amylase locus reveals ancient duplications seeding modern-day variation",
