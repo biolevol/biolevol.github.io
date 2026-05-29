@@ -447,6 +447,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/paving/";
+            },},{id: "news-primate-amylase-paper-published-in-cell-reports",
+          title: 'Primate amylase paper published in Cell Reports',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/Cell_Reports/";
             },},{id: "news-two-talks-at-virtual-evolution-2025",
           title: 'Two talks at Virtual Evolution 2025',
           description: "",
@@ -497,6 +502,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/ESEB_talk/";
+            },},{id: "news-joining-the-heredity-editorial-board",
+          title: 'Joining the Heredity Editorial Board',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/heredity_editor/";
             },},{id: "news-seminar-series-schedule",
           title: 'Seminar Series Schedule',
           description: "",
