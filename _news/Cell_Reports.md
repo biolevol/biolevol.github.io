@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Primate amylase paper published in Cell Reports
-date: 2025-05-24
+date: 2026-05-24
 inline: false
 related_posts: false
 ---
