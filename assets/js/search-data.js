@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-talks",
           title: "talks",
-          description: "Invited seminars and conference contributions, through November 2026.",
+          description: "Invited seminars and conference contributions.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/talks/";
@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-outreach-and-service",
           title: "outreach and service",
-          description: "Public engagement, community building, editorial service, teaching, and mentorship.",
+          description: "Public engagement, community building, editorial service, teaching and mentorship.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -519,8 +519,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/japan/";
-            },},{id: "news-invited-seminar-at-the-university-of-vienna",
-          title: 'Invited seminar at the University of Vienna',
+            },},{id: "news-seminar-at-the-university-of-vienna",
+          title: 'Seminar at the University of Vienna',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/vienna_seminar_2025/";
@@ -559,8 +559,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/peqg_2026/";
-            },},{id: "news-launching-talk-nerdy-to-me-in-buffalo",
-          title: 'Launching Talk Nerdy to Me in Buffalo',
+            },},{id: "news-talk-nerdy-to-me-in-buffalo",
+          title: 'Talk Nerdy to Me in Buffalo',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/talk_nerdy_to_me/";
@@ -579,16 +579,16 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/utah_rising_stars_2026/";
-            },},{id: "news-ashg-2026-poster-reviewers-choice-recognition-and-session-moderation",
-          title: 'ASHG 2026 poster, Reviewers’ Choice recognition, and session moderation',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/ashg_2026/";
             },},{id: "news-new-mbe-paper-on-the-evolution-of-primate-salivary-defenses",
           title: 'New MBE paper on the evolution of primate salivary defenses',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/prp_mbe_2026/";
+            },},{id: "news-ashg-2026-poster-reviewers-choice-recognition-and-session-moderation",
+          title: 'ASHG 2026 poster, Reviewers’ Choice recognition and session moderation',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/ashg_2026/";
             },},{id: "news-heredity-podcast-on-becoming-an-early-career-editor",
           title: 'Heredity podcast on becoming an Early Career Editor',
           description: "",
