@@ -18,21 +18,28 @@ ninja.data = [{
           },
         },{id: "nav-research",
           title: "research",
-          description: "My research centers on understanding the mechanistic basis of structural variation (SV) and its role in evolutionary processes. I am particularly interested in how SVs arise within genomes, how they are maintained or eliminated within populations, and the consequences they have for adaptation and genetic diversity. By combining population genetics approaches with high-resolution genomic data, we can now quantify the extent and complexity of SVs within individuals and across species. My work investigates the evolutionary forces that shape these dynamic genomic regions shaped by the forces of recombination, mutation, selection, and drift, and how these processes contribute to long-term evolutionary trajectories.",
+          description: "My research examines how structural variants arise and shape genome evolution. I combine long-read assemblies, comparative genomics, and population genetics to study recurrent mutation, recombination, selection, and the history of complex genomic regions in humans and other primates.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-talks",
+          title: "talks",
+          description: "Invited seminars and conference contributions, through November 2026.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/talks/";
+          },
         },{id: "nav-cv",
           title: "cv",
-          description: "",
+          description: "Updated November 2026. Download the full CV using the PDF icon. Talks, outreach, teaching, mentorship, and service are also available through the navigation.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
         },{id: "nav-outreach-and-service",
           title: "outreach and service",
-          description: "",
+          description: "Public engagement, community building, editorial service, teaching, and mentorship.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -417,8 +424,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/Heredity_special_issue/";
-            },},{id: "news-smbe-symposium-on-adaptive-and-functional-stuctural-variation",
-          title: 'SMBE symposium on adaptive and functional stuctural variation!',
+            },},{id: "news-smbe-symposium-on-functional-and-adaptive-structural-variation",
+          title: 'SMBE symposium on functional and adaptive structural variation',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/SMBE2024/";
@@ -512,21 +519,86 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/japan/";
+            },},{id: "news-invited-seminar-at-the-university-of-vienna",
+          title: 'Invited seminar at the University of Vienna',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/vienna_seminar_2025/";
             },},{id: "news-seminar-series-spring-2026-schedule",
           title: 'Seminar Series Spring 2026 Schedule',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/seminars_2026_spring/";
+            },},{id: "news-seminars-in-lausanne-and-fribourg",
+          title: 'Seminars in Lausanne and Fribourg',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/switzerland_seminars_2026/";
+            },},{id: "news-commentary-on-neanderthal-history-in-national-geographic",
+          title: 'Commentary on Neanderthal history in National Geographic',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/national_geographic_2026/";
             },},{id: "news-special-issue-in-heredity",
           title: 'Special Issue in Heredity',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/special_issue_out/";
+            },},{id: "news-moderating-evolutionary-theory-at-virtual-evolution-2026",
+          title: 'Moderating Evolutionary Theory at Virtual Evolution 2026',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/virtual_evolution_2026/";
             },},{id: "news-primate-amylase-paper-published-in-cell-reports",
           title: 'Primate amylase paper published in Cell Reports',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/Cell_Reports/";
+            },},{id: "news-poster-and-judging-at-peqg-2026",
+          title: 'Poster and judging at PEQG 2026',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/peqg_2026/";
+            },},{id: "news-launching-talk-nerdy-to-me-in-buffalo",
+          title: 'Launching Talk Nerdy to Me in Buffalo',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/talk_nerdy_to_me/";
+            },},{id: "news-invited-seminar-at-aarhus-university",
+          title: 'Invited seminar at Aarhus University',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/aarhus_seminar_2026/";
+            },},{id: "news-heredity-podcast-on-structural-variation",
+          title: 'Heredity podcast on structural variation',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/heredity_podcast_sv/";
+            },},{id: "news-invited-talk-at-utah-s-rising-stars-in-genetics-and-genomics-symposium",
+          title: 'Invited talk at Utah’s Rising Stars in Genetics and Genomics Symposium',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/utah_rising_stars_2026/";
+            },},{id: "news-ashg-2026-poster-reviewers-choice-recognition-and-session-moderation",
+          title: 'ASHG 2026 poster, Reviewers’ Choice recognition, and session moderation',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/ashg_2026/";
+            },},{id: "news-new-mbe-paper-on-the-evolution-of-primate-salivary-defenses",
+          title: 'New MBE paper on the evolution of primate salivary defenses',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/prp_mbe_2026/";
+            },},{id: "news-heredity-podcast-on-becoming-an-early-career-editor",
+          title: 'Heredity podcast on becoming an Early Career Editor',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/heredity_podcast_ecr/";
+            },},{id: "news-joining-aarhus-university-as-a-tenure-track-assistant-professor",
+          title: 'Joining Aarhus University as a tenure-track Assistant Professor',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/aarhus_announcement/";
             },},{id: "projects-human-amylase-diversity",
           title: 'Human Amylase Diversity',
           description: "Reconstruction of the human amylase locus reveals ancient duplications seeding modern-day variation",
