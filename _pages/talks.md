@@ -2,7 +2,7 @@
 layout: page
 title: talks
 permalink: /talks/
-description: Invited seminars and conference contributions, through November 2026.
+description: Invited seminars and conference contributions.
 nav: true
 nav_order: 4
 ---

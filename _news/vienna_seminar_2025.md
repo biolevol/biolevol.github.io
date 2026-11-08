@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Invited seminar at the University of Vienna"
-date: 2025-12-01
+title: "Seminar at the University of Vienna"
+date: 2025-12-04
 display_date: December 2025
 inline: false
 related_posts: false

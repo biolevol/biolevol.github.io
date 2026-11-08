@@ -7,7 +7,7 @@ related_posts: false
 ---
 **Update:** This study is now [published in Cell Reports](https://doi.org/10.1016/j.celrep.2026.117445).
 
-Our preprint, **_Convergent evolution through independent rearrangements in the primate amylase locus_**, is now available. We explore how independent gene duplications, driven by structural instability and non-allelic homologous recombination, have shaped amylase copy number across diverse primate lineages.
+Our preprint, **_Convergent evolution through independent rearrangements in the primate amylase locus_**, is now available. We explore how independent gene duplications, driven by structural instability, and non-allelic homologous recombination and LTRs(!) have shaped amylase copy number across diverse primate lineages.
 
 Read the full preprint [here](https://doi.org/10.1101/2025.08.14.670395).
 
