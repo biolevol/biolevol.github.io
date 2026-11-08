@@ -10,6 +10,6 @@ Read the paper here: [Reconstruction of the human amylase locus reveals ancient 
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/cover.jpg" title="example image" class="img-fluid rounded z-depth-1 center-img" %}
+        {% include figure.liquid path="assets/img/cover.png" alt="Overview of the human amylase study" class="img-fluid rounded z-depth-1 center-img" %}
     </div>
 </div>    

@@ -12,6 +12,8 @@ Representative publications on this topic include:
 1. Yilmaz, F.*, Karageorgiou, C.*, Kim, K.*, Pajic, P., Scheer, K., Human Genome Structural Variation Consortium, Beck, C. R., Torregrossa, A., Lee, C., & Gokcumen, O. (2024). Reconstruction of the human amylase locus reveals ancient duplications seeding modern-day variation. Science, 386(6724), eadn0609. *denotes co-first author 
 2. Karageorgiou, C., Gokcumen, O., & Dennis, M. Y. (2024). Deciphering the role of structural variation in human evolution: a functional perspective. Current opinion in genetics & development, 88, 102240. 
 
+3. Scheer, K.*, Landau, L. J. B.*, Jorgensen, K., Karageorgiou, C., et al. (2026). [Rapid adaptive increase of amylase gene copy number in Indigenous Andeans](https://doi.org/10.1038/s41467-026-71450-8). *Nature Communications*, 17, 3822.
+
 Media highlights on this topic:
 1. [How Early Humans Evolved to Eat Starch](https://www.nytimes.com/2024/10/17/science/neanderthals-starch-amylase-genes.html), written by Carl Zimmer for the NYT.
 
@@ -93,7 +95,7 @@ By identifying both non-recurrent and recurrent mechanisms behind the structural
         {% include figure.liquid path="assets/img/img12.jpg" title="example image" class="img-fluid rounded z-depth-1 center-img" %}
     </div>
 </div>    
-If you are in mechanisms generating SVs, check out our mutational network, where we connect all distinct structural haplotypes, tracing the most parsimonious scenarios and inferring duplications, deletions, and inversions.
+If you are interested in mechanisms generating SVs, check out our mutational network, where we connect all distinct structural haplotypes, tracing the most parsimonious scenarios and inferring duplications, deletions, and inversions.
 
 <div class="row justify-content-center">
     <div class="col-sm-8 mt-3 mt-md-0">

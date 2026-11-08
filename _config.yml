@@ -8,8 +8,10 @@ middle_name: (Clio)
 last_name: Karageorgiou
 contact_note: >
   drop me a line at charikle[at]buffalo.edu
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+description: >
+  Charikleia (Clio) Karageorgiou is an evolutionary geneticist studying structural variation,
+  recombination, and human and primate genome evolution. Incoming tenure-track Assistant
+  Professor at BiRC, Aarhus University, starting December 2026.
 footer_text: >
   
 keywords: Structural Variation, Population Genetics, Evolution # add your own keywords or leave empty
@@ -61,9 +63,9 @@ max_width: 820px
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
 # see https://schema.org/docs/faq.html for more information
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+og_image: https://biolevol.github.io/assets/img/clio_japan_2025.jpg
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -633,4 +635,5 @@ jsonresume:
   - education
   - publications
   - awards
+  - volunteer
   - interests

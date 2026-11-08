@@ -1,9 +1,9 @@
 {
   "basics": {
     "name": "Charikleia Karageorgiou",
-    "position": "Postdoctoral Researcher",
+    "position": "Postdoctoral Researcher; incoming tenure-track Assistant Professor",
     "image": "",
-    "email": "charikle[at]buffalo.edu",
+    "email": "charikle@buffalo.edu",
     "url": "https://biolevol.github.io/",
     "location": {
       "address": "219 Cooke Hall, University at Buffalo",
@@ -14,18 +14,26 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "evobioclio",
-        "url": "https://twitter.com/evobioclio"
+        "network": "Bluesky",
+        "username": "evobioclio.bsky.social",
+        "url": "https://bsky.app/profile/evobioclio.bsky.social"
       }
     ]
   },
   "work": [
     {
+      "name": "BiRC, Department of Molecular Biology and Genetics, Aarhus University, Denmark",
+      "position": "Incoming tenure-track Assistant Professor",
+      "startDate": "2026-12",
+      "incoming": true,
+      "summary": "Appointment begins December 1, 2026.",
+      "url": "https://mbg.au.dk/en/news-and-events/news-item/artikel/from-buffalo-to-mbg-charikleia-karageorgiou-aims-to-understand-human-genetic-variation"
+    },
+    {
       "name": "Dept. Biological Sciences, University at Buffalo, SUNY, NY, USA",
       "position": "Postdoctoral Researcher",
       "startDate": "2023-01",
-      "endDate": "Present",
+      "endDate": "2026-11",
       "summary": "Gokcumen Lab"
     },
     {
@@ -94,9 +102,14 @@
       "startDate": "2011-09",
       "endDate": "2014-06"
     }
-
   ],
   "awards": [
+    {
+      "title": "Reviewers’ Choice Abstract",
+      "date": "2026-10",
+      "awarder": "American Society of Human Genetics Annual Meeting",
+      "summary": "Integrating long-read assemblies and ancestry graphs to map Neanderthal-introgressed structural variation in humans."
+    },
     {
       "title": "DeLill Nasser Award for Professional Development in Genetics ($1,000)",
       "date": "2025-06",
@@ -104,19 +117,19 @@
       "url": "https://genestogenomes.org/congratulations-to-the-2025-delill-nasser-awardees/"
     },
     {
-      "title": "PIF PhD fellowship from the Universitat Autònoma de Barcelona, Spain. (~75,000 €)",
-      "date": "2017-09",
-      "awarder": "Universitat Autònoma de Barcelona"
-    },
-    {
       "title": "Cum Laude",
       "date": "2022-09",
       "awarder": "Universitat Autònoma de Barcelona"
     },
-        {
+    {
       "title": "Swiss-European Mobility Programme (SEMP) Grant (440 CHF/month, declined due to COVID-19 pandemic)",
       "date": "2020-02",
       "awarder": "Swiss-European Mobility Programme"
+    },
+    {
+      "title": "PIF PhD fellowship from the Universitat Autònoma de Barcelona, Spain. (~75,000 €)",
+      "date": "2017-09",
+      "awarder": "Universitat Autònoma de Barcelona"
     }
   ],
   "interests": [
@@ -129,6 +142,85 @@
         "Human Genetics",
         "Bioinformatics"
       ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Heredity",
+      "position": "Associate Editor",
+      "startDate": "2025-09",
+      "summary": "Editorial board member since September 1, 2025."
+    },
+    {
+      "organization": "American Society of Human Genetics Annual Meeting, Montréal",
+      "position": "Platform session moderator",
+      "startDate": "2026-10",
+      "endDate": "2026-10",
+      "summary": "Move Over SNPs: Structural Variants, Repeat Expansions, and More."
+    },
+    {
+      "organization": "Population, Evolutionary, and Quantitative Genetics Conference",
+      "position": "Poster judge",
+      "startDate": "2026-06",
+      "endDate": "2026-06"
+    },
+    {
+      "organization": "Virtual Evolution 2026",
+      "position": "Session moderator",
+      "startDate": "2026-05",
+      "endDate": "2026-05",
+      "summary": "Evolutionary Theory."
+    },
+    {
+      "organization": "Talk Nerdy to Me, UB postdoctoral community",
+      "position": "Founder and organizer",
+      "startDate": "2025",
+      "summary": "Public science communication and informal discussion; first public event held June 18, 2026."
+    },
+    {
+      "organization": "Ecological and Evolutionary Genomics Gordon Research Seminar",
+      "position": "Chair",
+      "startDate": "2025-07",
+      "endDate": "2025-07",
+      "summary": "Co-chair: Joaquin Nunez. Also co-chaired the associated GRC Power Hour."
+    },
+    {
+      "organization": "ESEB and Festa Major de Gràcia, Barcelona",
+      "position": "Outreach co-organizer",
+      "startDate": "2025-08",
+      "endDate": "2025-08",
+      "summary": "Breaking Bread: Exploring the Evolution of Amylase in Humans, with Thomas Hitchcock."
+    },
+    {
+      "organization": "Paving Pathways, University at Buffalo",
+      "position": "Organizing committee member",
+      "startDate": "2025-05",
+      "endDate": "2025-05"
+    },
+    {
+      "organization": "Heredity",
+      "position": "Guest Editor",
+      "startDate": "2024",
+      "endDate": "2025",
+      "summary": "Functional and Adaptive Effects of Genomic Structural Variation. Collection published in 2026."
+    },
+    {
+      "organization": "Society for Molecular Biology and Evolution, Puerto Vallarta",
+      "position": "Symposium co-organizer",
+      "startDate": "2024-07",
+      "endDate": "2024-07",
+      "summary": "Deciphering the functional and adaptive effects of genomic structural variation."
+    },
+    {
+      "organization": "University at Buffalo",
+      "position": "Postdoctoral Meetups organizer",
+      "startDate": "2024"
+    },
+    {
+      "organization": "Genome Structure, Evolution and Anthropology Seminar Series",
+      "position": "Organizer",
+      "startDate": "2022",
+      "summary": "Buffalo Evolutionary and Anthropological Genomics Lab, University at Buffalo."
     }
   ]
 }

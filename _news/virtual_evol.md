@@ -12,3 +12,4 @@ I had the pleasure of presenting two talks at this year’s *Virtual Evolution 2
 2. *Primate Structural Variation* – Presenting new findings into the convergent evolution of salivary amylase through independent rearrangements in primates.
 
 Grateful for the opportunity to share our work!
+I also moderated the **Population Genetics Theory** and **Molecular Evolution** sessions.

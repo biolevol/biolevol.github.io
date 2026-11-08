@@ -10,9 +10,9 @@ related_publications: no
 
 Representative publications on this topic include:
 
-1. Karageorgiou, C., Ruhl, S., & Gokcumen, O. (2025). Convergent evolution through independent rearrangements in the primate amylase locus. bioRxiv, 2025-08.
+1. Karageorgiou, C., Pajic, P., Ruhl, S., & Gokcumen, O. (2026). [Convergent evolution through independent rearrangements in the primate amylase locus](https://doi.org/10.1016/j.celrep.2026.117445). *Cell Reports*, 45(6), 117445.
 
-Our latest preprint explores the evolution of the primate amylase locus, uncovering structural innovations, regulatory shifts and molecular convergence. We find repeated gains and losses of amylase copies, arising independently, revealing it as a structural hotspot in primate genomes.
+Our study, now published in *Cell Reports*, explores the evolution of the primate amylase locus, examining structural innovations, regulatory shifts, and molecular convergence. We find repeated gains and losses of amylase copies arising independently across primates, revealing this locus as a hotspot for structural variation.
 <div class="row justify-content-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/pimg1.jpg" title="example image" class="img-fluid rounded z-depth-1 center-img" %}

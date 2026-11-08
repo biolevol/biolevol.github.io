@@ -4,39 +4,25 @@ title: about
 permalink: /
 subtitle: SVs, popgen, evolution.
 
-#profile:
-#  align: right
-#  image: prof_pic.jpg
-#  image_circular: false # crops the image to make it circular
-#  more_info: >
-#    <p>219 Cooke Hall</p>
-#    <p>University at Buffalo, SUNY</p>
-#    <p>Buffalo, NY, 14260</p>
-
-
-
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 13 # leave blank to include all the news in the `_news` folder
+  limit: 10 # the complete archive is available on the news page
 
 latest_posts: false 
 ---
 
-<div style="width: 65%; float: left;">
-    <p>
-    I am an evolutionary geneticist at the Department of Biological Sciences at the University at Buffalo, SUNY, working with <a href="https://gokcumenlab.org/">Omer Gokcumen</a>. I earned my PhD in Evolutionary Genetics from the Autonomous University of Barcelona, where my research focused on inversion polymorphisms in <em>Drosophila subobscura</em>.
-</p>
-<p>
-    My <a href="https://biolevol.github.io/projects/">research</a> explores the mechanistic basis of structural variation and its role in shaping genome evolution. I study how structural variants arise, persist, or are lost in populations, and how they influence adaptation across different environments and timescales. Above all, I love all things recombination.
-</p>
+<div class="row align-items-start">
+  <div class="col-md-8">
+    <p>I am an evolutionary geneticist and postdoctoral researcher at the University at Buffalo, SUNY, working with <a href="https://gokcumenlab.org/">Omer Gokcumen</a>. On December 1, 2026, I will join the Department of Molecular Biology and Genetics at Aarhus University as a tenure-track Assistant Professor within BiRC.</p>
+    <p>My <a href="{{ '/projects/' | relative_url }}">research</a> explores the mechanistic basis of structural variation and its role in genome evolution. I study how structural variants arise, persist, or are lost in populations, and how recurrent mutation, recombination, and selection shape complex genomic regions. Above all, I love all things recombination.</p>
+    <p>I earned my PhD in Evolutionary Genetics at the Universitat Autònoma de Barcelona in 2022, studying inversion polymorphisms in <em>Drosophila subobscura</em>. My postdoctoral work combines long-read sequencing, comparative genomics, and population genetics to investigate structural variation in humans and other primates.</p>
+    <p><a href="{{ '/news/aarhus_announcement/' | relative_url }}">Read the Aarhus announcement</a> · <a href="{{ '/talks/' | relative_url }}">Talks and conferences</a> · <a href="{{ '/teaching/' | relative_url }}">Outreach, teaching, and service</a></p>
+  </div>
+  <div class="col-md-4 mb-3">
+    <img src="{{ '/assets/img/clio_japan_2025.jpg' | relative_url }}" class="img-fluid rounded" alt="Charikleia (Clio) Karageorgiou during her 2025 research visit to Japan" width="360" loading="eager">
+  </div>
 </div>
-
-<div style="width: 34%; float: right;">
-    <img src="../assets/img/clio_japan_2025.jpg" width="360" style="display: block; margin: auto; margin-bottom: 20px;">
-</div>
-
-<div style="clear: both;"></div>
