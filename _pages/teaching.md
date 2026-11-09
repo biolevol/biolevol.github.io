@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: outreach and service
-description: Public engagement, community building, editorial service, teaching and mentorship.
+title: outreach
+description: Public engagement, community building, editorial service and mentorship.
 nav: true
 nav_order: 6
 ---
@@ -40,7 +40,6 @@ In August 2025, Thomas Hitchcock and I organized **Breaking Bread: Exploring the
 | May 2025 | Organizing committee, *Paving Pathways*, a career symposium at the University at Buffalo |
 | July 2024 | Co-organizer with Megan Dennis, Omer Gokcumen and Ellen Leffler, *Deciphering the functional and adaptive effects of genomic structural variation*, SMBE, Puerto Vallarta, Mexico |
 
-My presentations are listed on the [talks and conferences page]({{ '/talks/' | relative_url }}).
 
 ## Community building
 
@@ -53,11 +52,6 @@ In 2024, I initiated **Postdoctoral Meetups** at UB to encourage connection and 
 I have served as an **Associate Editor for Heredity** since September 1, 2025. I also co-edited the special issue [Functional and Adaptive Effects of Genomic Structural Variation](https://www.nature.com/collections/deejeiccee) with Omer Gokcumen, Megan Dennis and Ellen Leffler. The collection and our accompanying editorial were published in 2026.
 
 My professional training includes the GSA Journals Peer Review Training Program and the eLife Early-Career Reviewers Pool, both in 2025. I served on UB’s Distinguished Postdoc Mentor Award selection committee in 2025–2026 and as a poster grader at the Biological Sciences Research Symposium in 2025 and 2026.
-
-## Teaching
-
-- **University at Buffalo, Fall 2025:** One lecture in BIO550LEC, *Human Evolutionary Genomics*, a graduate course in the Department of Biological Sciences.
-- **Universitat Autònoma de Barcelona, 2017–2021:** Lectures and teaching assistance for the undergraduate Genetics course (101963), covering Drosophila morphology, genetic linkage and mapping, recombination and population genetics.
 
 ## Mentorship
 
