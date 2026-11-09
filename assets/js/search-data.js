@@ -32,14 +32,14 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Updated November 2026. Download the full CV using the PDF icon. Talks, outreach, teaching, mentorship, and service are also available through the navigation.",
+          description: "Updated November 2026. Download the full CV using the PDF icon.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-outreach-and-service",
-          title: "outreach and service",
-          description: "Public engagement, community building, editorial service, teaching and mentorship.",
+        },{id: "nav-outreach",
+          title: "outreach",
+          description: "Public engagement, community building, editorial service and mentorship.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -544,11 +544,6 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/special_issue_out/";
-            },},{id: "news-moderating-evolutionary-theory-at-virtual-evolution-2026",
-          title: 'Moderating Evolutionary Theory at Virtual Evolution 2026',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/virtual_evolution_2026/";
             },},{id: "news-primate-amylase-paper-published-in-cell-reports",
           title: 'Primate amylase paper published in Cell Reports',
           description: "",
