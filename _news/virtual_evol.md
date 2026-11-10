@@ -6,10 +6,10 @@ inline: false
 related_posts: false
 ---
 
-I had the pleasure of presenting two talks at this year’s *Virtual Evolution 2025* meeting.  
+I had the pleasure of presenting two talks at this year’s _Virtual Evolution 2025_ meeting.
 
-1. *Human Amylase Evolution* - Highlighting recent work on recurrent duplications at the *AMY1* locus.  
-2. *Primate Structural Variation* – Presenting new findings into the convergent evolution of salivary amylase through independent rearrangements in primates.
+1. _Human Amylase Evolution_ - Highlighting recent work on recurrent duplications at the _AMY1_ locus.
+2. _Primate Structural Variation_ – Presenting new findings into the convergent evolution of salivary amylase through independent rearrangements in primates.
 
 Grateful for the opportunity to share our work!
 

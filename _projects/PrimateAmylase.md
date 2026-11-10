@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Primate Amylase 
+title: Primate Amylase
 description: Convergent evolution through independent rearrangements in the primate amylase locus
 img: assets/img/primate_Figure1.jpg
 importance: 2
@@ -10,14 +10,15 @@ related_publications: no
 
 Representative publications on this topic include:
 
-1. Karageorgiou, C., Pajic, P., Ruhl, S., & Gokcumen, O. (2026). [Convergent evolution through independent rearrangements in the primate amylase locus](https://doi.org/10.1016/j.celrep.2026.117445). *Cell Reports*, 45(6), 117445.
+1. Karageorgiou, C., Pajic, P., Ruhl, S., & Gokcumen, O. (2026). [Convergent evolution through independent rearrangements in the primate amylase locus](https://doi.org/10.1016/j.celrep.2026.117445). _Cell Reports_, 45(6), 117445.
 
-Our study, now published in *Cell Reports*, explores the evolution of the primate amylase locus, examining structural innovations, regulatory shifts, and molecular convergence. We find repeated gains and losses of amylase copies arising independently across primates, revealing this locus as a hotspot for structural variation.
+Our study, now published in _Cell Reports_, explores the evolution of the primate amylase locus, examining structural innovations, regulatory shifts, and molecular convergence. We find repeated gains and losses of amylase copies arising independently across primates, revealing this locus as a hotspot for structural variation.
+
 <div class="row justify-content-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/pimg1.jpg" title="example image" class="img-fluid rounded z-depth-1 center-img" %}
     </div>
-</div> 
+</div>
 
 From a single ancestral AMY2B gene, a γ‐actin insertion and duplication in Catarrhini created AMY1′. In great apes, AMY1′ acquired an ERV insertion and underwent further duplications, giving rise to AMY1 (salivary) and AMY2A (pancreatic) specialization.
 
@@ -25,7 +26,7 @@ From a single ancestral AMY2B gene, a γ‐actin insertion and duplication in Ca
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/pimg2.jpg" title="example image" class="img-fluid rounded z-depth-1 center-img" %}
     </div>
-</div> 
+</div>
 
 In rhesus macaques and olive baboons, NAHR produced lineage‐specific amylase duplicates (AMYm, AMYp1, AMYp2) within the last ~5 Myr, showing structural innovation has occurred multiple times in this locus.
 
@@ -33,7 +34,7 @@ In rhesus macaques and olive baboons, NAHR produced lineage‐specific amylase d
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/pimg3.jpg" title="example image" class="img-fluid rounded z-depth-1 center-img" %}
     </div>
-</div> 
+</div>
 
 LTR retrotransposons are enriched at the amylase locus and correlate with copy number gains. Other TE types are depleted. LTRs may prime the locus for structural instability and recurrent duplications.
 
@@ -41,7 +42,7 @@ LTR retrotransposons are enriched at the amylase locus and correlate with copy n
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/pimg4.jpg" title="example image" class="img-fluid rounded z-depth-1 center-img" %}
     </div>
-</div> 
+</div>
 
 In baboons, the novel AMYp2 gene shows strong positive selection, while the ancestral AMY2B carries a premature stop codon, hinting at functional compensation. Multiple paralogs contribute to salivary amylase in Old World monkeys.
 
@@ -49,7 +50,7 @@ In baboons, the novel AMYp2 gene shows strong positive selection, while the ance
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/pimg5.jpg" title="example image" class="img-fluid rounded z-depth-1 center-img" %}
     </div>
-</div> 
+</div>
 
 Ancestral AMY1′ was expressed in both pancreas and salivary glands. In great apes, duplication led to AMY1 (salivary) and AMY2A (pancreatic). In macaques and baboons, AMY1′ still shows dual expression, with a tendency toward higher salivary expression.
 
@@ -57,7 +58,7 @@ Ancestral AMY1′ was expressed in both pancreas and salivary glands. In great a
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/pimg6.jpg" title="example image" class="img-fluid rounded z-depth-1 center-img" %}
     </div>
-</div> 
+</div>
 
 Regulatory motifs alone don’t explain tissue specificity. FOXC1 sites appear in most paralogs. Patterns likely reflect combinatorial motif turnover plus cis-regulatory context (promoters/enhancers), chromatin accessibility and locus architecture altered by duplications.
 

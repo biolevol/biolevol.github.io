@@ -5,11 +5,12 @@ date: 2024-10-17
 inline: false
 related_posts: false
 ---
-Very excited to share that the work of the last two years is now published in *Science*!  
+
+Very excited to share that the work of the last two years is now published in _Science_!  
 Read the paper here: [Reconstruction of the human amylase locus reveals ancient duplications seeding modern-day variation](https://www.science.org/doi/10.1126/science.adn0609)
 
 <div class="row justify-content-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/cover.png" alt="Overview of the human amylase study" class="img-fluid rounded z-depth-1 center-img" %}
     </div>
-</div>    
+</div>

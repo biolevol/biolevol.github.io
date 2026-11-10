@@ -5,10 +5,9 @@ permalink: /projects/
 description: My research examines how structural variants arise and shape genome evolution. I combine long-read assemblies, comparative genomics, and population genetics to study recurrent mutation, recombination, selection, and the history of complex genomic regions in humans and other primates.
 nav: true
 nav_order: 3
-display_categories: 
+display_categories:
 horizontal: false
 ---
-
 
 <!-- pages/projects.md -->
 <div class="projects">

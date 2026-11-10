@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Talk at ESEB 2025
-date: 2025-08-19 
+date: 2025-08-19
 inline: false
 related_posts: false
 ---
@@ -17,4 +17,3 @@ Shared our latest <a href="https://www.biorxiv.org/content/10.1101/2025.08.14.67
     </div>
 
 </div>
-

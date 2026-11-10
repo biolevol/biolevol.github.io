@@ -15,7 +15,7 @@ Amylase, the enzyme responsible for starch digestion, has a remarkable evolution
     <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/outreachESEB.jpg" title="example image" class="img-fluid rounded z-depth-1 center-img" %}
     </div>
-</div>    
+</div>
 
 Activity Stations Included:
 
@@ -30,8 +30,9 @@ Participants played a custom version of Snakes and Ladders where landing on a la
 
 ShinyApp Simulation – Mini Haplotype Evolution:
 On their phones families ran simulations to see how copy number variation evolves under different conditions, eg. mutation, selection, drift, or bottlenecks, visualized as evolving haplotype graphs over generations.
+
 <div class="row justify-content-center">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/outreachESEB1.jpg" title="example image" class="img-fluid rounded z-depth-1 center-img" %}
     </div>
-</div>    
+</div>

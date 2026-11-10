@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-At **Evolution 2025 in Athens, Georgia**, I presented *Convergent evolution through recurrent rearrangements in the primate amylase locus*.
+At **Evolution 2025 in Athens, Georgia**, I presented _Convergent evolution through recurrent rearrangements in the primate amylase locus_.

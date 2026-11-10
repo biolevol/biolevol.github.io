@@ -12,7 +12,7 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 10 # the complete archive is available on the news page
 
-latest_posts: false 
+latest_posts: false
 ---
 
 <div class="row align-items-start">

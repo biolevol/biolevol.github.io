@@ -6,6 +6,6 @@ inline: false
 related_posts: false
 ---
 
-I presented *From the amylase locus to genome-wide structural variation* at the **Department of Molecular Biology and Genetics, Aarhus University**.
+I presented _From the amylase locus to genome-wide structural variation_ at the **Department of Molecular Biology and Genetics, Aarhus University**.
 
 [MBG Focus Talk announcement](https://mbg.au.dk/en/news-and-events/news-item/artikel/mbg-focus-talk-charikleia-karageorgiou).

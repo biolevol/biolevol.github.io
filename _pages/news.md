@@ -4,7 +4,7 @@ title: news
 permalink: /news/
 nav: true
 nav_order: 7
-description: 
+description:
 toc:
   sidebar: left
 ---

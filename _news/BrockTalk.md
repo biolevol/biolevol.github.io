@@ -6,4 +6,4 @@ inline: false
 related_posts: false
 ---
 
-I gave an invited seminar at **Brock University in St Catharines, Canada**, presenting *Reconstruction of the human amylase locus reveals ancient duplications seeding modern-day variation*.
+I gave an invited seminar at **Brock University in St Catharines, Canada**, presenting _Reconstruction of the human amylase locus reveals ancient duplications seeding modern-day variation_.

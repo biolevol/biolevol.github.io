@@ -28,5 +28,4 @@ Seminar Schedule:
 
 •December 1 – Rozenn Pineau (University of Chicago) TBA
 
-
 All seminars are held on Mondays at 3:00pm ET, in person at the Department of Biological Sciences, University at Buffalo, with a Zoom option available upon request. Please feel free to reach out if you’d like to attend remotely.

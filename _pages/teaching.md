@@ -21,25 +21,24 @@ In August 2025, Thomas Hitchcock and I organized **Breaking Bread: Exploring the
 
 ### Podcasts and media
 
-- **October 28, 2026:** Guest on the *Heredity* podcast, [Become an Early Career Editor](https://shows.acast.com/heredity-podcast-naturecom-science-feeds/episodes/become-an-early-career-editor), discussing the journal’s mentoring initiative for early-career editors.
-- **August 26, 2026:** Guest on the *Heredity* podcast, [Special Issue on Structural Variation](https://shows.acast.com/heredity-podcast-naturecom-science-feeds/episodes/special-issue-on-structural-variation), discussing structural variation and our special issue.
-- **March 2026:** Invited commentary in *National Geographic* on research into the demographic history of late Neanderthals. [Read the article](https://www.nationalgeographic.com/history/article/neanderthal-fetus-bottleneck).
-- **2024:** Our human amylase study received coverage in the *New York Times*, *Discover*, CNN and NBC and was highlighted by the NIH Director’s Blog, *Cell Genomics*, PLOS SciComm and the Leakey Foundation podcast.
+- **October 28, 2026:** Guest on the _Heredity_ podcast, [Become an Early Career Editor](https://shows.acast.com/heredity-podcast-naturecom-science-feeds/episodes/become-an-early-career-editor), discussing the journal’s mentoring initiative for early-career editors.
+- **August 26, 2026:** Guest on the _Heredity_ podcast, [Special Issue on Structural Variation](https://shows.acast.com/heredity-podcast-naturecom-science-feeds/episodes/special-issue-on-structural-variation), discussing structural variation and our special issue.
+- **March 2026:** Invited commentary in _National Geographic_ on research into the demographic history of late Neanderthals. [Read the article](https://www.nationalgeographic.com/history/article/neanderthal-fetus-bottleneck).
+- **2024:** Our human amylase study received coverage in the _New York Times_, _Discover_, CNN and NBC and was highlighted by the NIH Director’s Blog, _Cell Genomics_, PLOS SciComm and the Leakey Foundation podcast.
 
 ## Meetings and symposia
 
-| Date | Role and event |
-| --- | --- |
-| October 2026 | Moderator, *Move Over SNPs: Structural Variants, Repeat Expansions and More*, ASHG, Montréal, Canada |
-| June 2026 | Poster judge, Population, Evolutionary and Quantitative Genetics (PEQG), Pacific Grove, USA |
-| May 2026 | Moderator, Evolutionary Theory session, Virtual Evolution |
-| August 2025 | Outreach co-organizer, *Breaking Bread*, Festa Major de Gràcia and ESEB, Barcelona, Spain |
-| July 2025 | Chair with Joaquin Nunez, Ecological and Evolutionary Genomics Gordon Research Seminar, Lucca, Italy |
-| July 2025 | Co-chair, GRC Power Hour, Ecological and Evolutionary Genomics Gordon Research Conference, Lucca, Italy |
-| May 2025 | Moderator, Population Genetics Theory and Molecular Evolution sessions, Virtual Evolution |
-| May 2025 | Organizing committee, *Paving Pathways*, a career symposium at the University at Buffalo |
-| July 2024 | Co-organizer with Megan Dennis, Omer Gokcumen and Ellen Leffler, *Deciphering the functional and adaptive effects of genomic structural variation*, SMBE, Puerto Vallarta, Mexico |
-
+| Date         | Role and event                                                                                                                                                                    |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| October 2026 | Moderator, _Move Over SNPs: Structural Variants, Repeat Expansions and More_, ASHG, Montréal, Canada                                                                              |
+| June 2026    | Poster judge, Population, Evolutionary and Quantitative Genetics (PEQG), Pacific Grove, USA                                                                                       |
+| May 2026     | Moderator, Evolutionary Theory session, Virtual Evolution                                                                                                                         |
+| August 2025  | Outreach co-organizer, _Breaking Bread_, Festa Major de Gràcia and ESEB, Barcelona, Spain                                                                                         |
+| July 2025    | Chair with Joaquin Nunez, Ecological and Evolutionary Genomics Gordon Research Seminar, Lucca, Italy                                                                              |
+| July 2025    | Co-chair, GRC Power Hour, Ecological and Evolutionary Genomics Gordon Research Conference, Lucca, Italy                                                                           |
+| May 2025     | Moderator, Population Genetics Theory and Molecular Evolution sessions, Virtual Evolution                                                                                         |
+| May 2025     | Organizing committee, _Paving Pathways_, a career symposium at the University at Buffalo                                                                                          |
+| July 2024    | Co-organizer with Megan Dennis, Omer Gokcumen and Ellen Leffler, _Deciphering the functional and adaptive effects of genomic structural variation_, SMBE, Puerto Vallarta, Mexico |
 
 ## Community building
 
