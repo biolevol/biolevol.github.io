@@ -1,4 +1,5 @@
 name: Update TOCs
+run-name: Update
 # This workflow automatically updates the Table of Contents (TOC) in markdown files
 
 on:
@@ -47,4 +48,4 @@ jobs:
         if: steps.changed-files.outputs.any_changed == 'true'
         uses: stefanzweifel/git-auto-commit-action@v5.0.1
         with:
-          commit_message: Auto update markdown TOC
+          commit_message: Update
